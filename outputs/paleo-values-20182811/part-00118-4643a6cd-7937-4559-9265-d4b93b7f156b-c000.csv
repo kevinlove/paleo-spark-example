@@ -1,0 +1,946 @@
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:identificationQualifier,sp.,35190
+40250f4d-7aa6-4fcc-ac38-2868fa4846bd,dwc:day,6,7282
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:sex,unknown,29433
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:countryCode,SO,2504
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:country,Antigua and Barbuda,1588
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of arctostrea atkinsi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Scolecomorphus uluguruensis,101
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Type of Neoplasta scapularis,4
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Parnassius epaphus ab. rubropicta,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of apodemus mystacinus euxinus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of sternopygus pejeraton,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Deromyia ternatus,7
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:country,Angola,797
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of scissirostrum dubium pelingense,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:country,Cook Islands,320
+1c8d18f4-5af2-4d86-98d2-8a5ed06456e2,dwc:day,30,211
+6c6f34ed-58a4-4ba2-b9c7-34524f79a349,dwc:preparations,Boxes and vials,847
+6c6f34ed-58a4-4ba2-b9c7-34524f79a349,dwc:waterBody,"Atlantic Ocean, Mediterranean Sea",366
+d621e959-2633-4ec1-a2a2-5d97cd818b47,dwc:country,United Kingdom,450
+137ed4cd-5172-45a5-acdb-8e1de9a64e32,dwc:identificationVerificationStatus,,502338
+137ed4cd-5172-45a5-acdb-8e1de9a64e32,dwc:sex,,497513
+81316846-80cb-4913-8941-b31537761eb0,dwc:taxonomicStatus,,31394
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,HORN CORE,149
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,PROX METAPODIAL 2-3,18
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,SKELETON,1856
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"HORN CORE FRAGS,BULLA,METAPODIAL,PHALANX",1
+81316846-80cb-4913-8941-b31537761eb0,dwc:preparations,radius,83
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,_ L M2/,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:country,El Salvador,166
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,calcaneum fragment,2
+d621e959-2633-4ec1-a2a2-5d97cd818b47,dwc:country,Undefined,188
+667c2736-bcd3-4a6a-abf4-db5d2dc815c4,dwc:preparations,fossil - 4,282
+667c2736-bcd3-4a6a-abf4-db5d2dc815c4,dwc:continent,Europe,957
+6c6f34ed-58a4-4ba2-b9c7-34524f79a349,dwc:country,Denmark,124
+2c2cc29c-3572-4568-a129-c8cbec34ccbe,dwc:taxonRank,family,94
+879d475f-4b76-4d18-8cf6-a7e5a6d44926,dcterms:language,English,2777
+6c6f34ed-58a4-4ba2-b9c7-34524f79a349,dwc:typeStatus,syntype; syntype; type,2
+40250f4d-7aa6-4fcc-ac38-2868fa4846bd,dwc:reproductiveCondition,vegetative,59
+db3181c9-48dd-489f-96ab-a5888f5a938c,dwc:preparations,dry - 4,182
+e27f0218-47e0-41bc-9086-9d9169096e90,dwc:identificationQualifier,genus in question,58
+e27f0218-47e0-41bc-9086-9d9169096e90,dwc:day,13,116
+40250f4d-7aa6-4fcc-ac38-2868fa4846bd,dwc:reproductiveCondition,Fruit Present,5
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,P3,149
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,"phalanges 1-3, digit III",1
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,dp3-dp4,2
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,"RM3, m frag",1
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,miscellaneous skeletal fragments,9
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,carpal/tarsal?,8
+1ba0bbad-28a7-4c50-8992-a028f79d1dc5,dwc:preparations,PREP - 9,3858
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:island,Santa Cruz,88
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:country,Qatar,6
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of schoutedenella kivuensis,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:preparations,skull (dry); skin (dry); whole animal (ethanol),84
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Iciligorgia schrammi,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of montanablastus baldyensis| voucher of montanablastus baldyensis,1
+b1f0612a-bc21-424f-b9c1-3bba69ad4f54,dwc:preparations,Unaltered remains - 1,3286
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Egernia carinata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:island,Abaiang Island,16
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of pronous intus,20
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of dicranella macrocarinata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of tabanus rixator,7
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Hippodamia spuria| Paralectotype of Hippodamia spuria,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of euplectus canaliculatus,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:island,Palu&#39e Island,22
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:country,Guinea,60
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paralectotype? of Carneyella pilea| Paralectotype? of Agelacrinus pileus,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,lectotype of philonthus crotchi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Potamon (Geothelphusa) mutandensis| Paratype of Potamon (Geothelphusa) mutandensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Ophiocreas phanerum,4
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of asterias contorta,9
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Lygodactylus rex,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of trogon mexicanus clarus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Uniophora multispina,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Ophiothrix angulata var. atrolineata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,taxonrank,order,31
+2ec3b31e-c86b-4ce9-b265-77c8c3f9643c,dwc:nomenclaturalCode,bone,11761
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Strophia scripta,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paralectotype of cyclas elegans,1
+1ba0bbad-28a7-4c50-8992-a028f79d1dc5,dwc:preparations,PREP - 51,214
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Endodonta farquhari,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of chondropoma (chondropomorus) gnote kriegeri,7
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Type of Leptogorgia teres,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of opistosiphon rivorum,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paralectotype of Achatinella sanguinea,2
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,Scapholunar,12
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,Lumbar vertebra,53
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of micrathena banksi,12
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Arnautoceltites teicherti,15
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Type of Geralophus antiquarius,19
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,shell and external mold,13
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,ANT INFEROGNATHAL FRAG,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"SKULL,SKELETON",34
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,M1 OR M2 FRAGMENT,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,ANTERIOR TOOTH,5
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,dentary frags (2),1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,R DENTARY: P/4-M/1,20
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,DENTARY FRAG W DP4+P4-M2,2
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,JUV L PHALANX 1 OF DIGIT 2,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,DENTARY W P4-M1,31
+f9a33279-d6ba-41c7-a511-ef6adfcb6e20,dwc:preparations,default - 111,3
+db3181c9-48dd-489f-96ab-a5888f5a938c,dwc:preparations,75% prepped - 14,5
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,mandible,43
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,claw fragment,3
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,L DENTARY W M2,30
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,L maxilla frag w P4-M3,3
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"SKULL ANTERIOR, I1/-M1/",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,R dentary frag w m3,9
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"SKULL, L DP4/-M1/-M2/, R DP4/-M1/-M2/",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"P/#, BONES, ASSOCIATED",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,R METATARSAL 1,2
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,L M3 ?,1
+81316846-80cb-4913-8941-b31537761eb0,dwc:preparations,partial neural spine,3
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,FORELIMB,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"partial r juvenile dentary (dp2-4, m1",2
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"R JAW; 5 L M/1, 1 R M/1",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,RI1/,23
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,anterior portions of fused l+r dentaries (edentulous,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:preparations,whole animal (70% ethanol); egg (ethanol),2
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"R M/1 COMPLETE, WITH MORE COMPLEX ACC",6
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,dentary fragment w/ deciduous cheek tooth,2
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,pubis or coracoid,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,R PROX TIBIOTARSUS,2
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,LEFT PROXIMAL STAPES,2
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"DENTARY,/P4-M3",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,DP/,5
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,R dentary w m3,3
+1ba0bbad-28a7-4c50-8992-a028f79d1dc5,dwc:preparations,PREP - 230,7
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Type of Cyrtoma femorata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Scarus lateralis,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:preparations,whole animal (formalin); tissue (RNAlater); tissue (95% ethanol) sample,16
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of stylonurus alveolatus,5
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of partulina carnicolor,1
+1ba0bbad-28a7-4c50-8992-a028f79d1dc5,dwc:preparations,PREP - 515,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Pheidole embolopyx,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,lectotype of nassa wilsoni| voucher of nassa wilsoni,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Amnicola olivacea,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of bostryx (bostryx) oyoensis| additional material of bostryx (bostryx) oyoensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of plecotrema turrita,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Lectotype of Achatina balteata,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Littorina caliginesa,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Bulimus lesueureanus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of littoridina frenata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Dipoena isthmia,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Plastotype (Paleontology) of Pseudodiadema humile,1
+ba77d411-4179-4dbd-b6c1-39b8a71ae795,typestatus,not yet published.,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of gulella pupa ituriensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Theridion terrestre,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of tudora aunantia wassaneusis,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Limicolaria saturata capitellum,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of bulimus (parabithynia) tanganikanus,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Alcadia concinna,1
+b7a79601-c07b-46d5-bd09-d4472b0d9431,dwc:typeStatus,"voucher of <a href=\"http://arctos.database.museum/name/Cynomys ludovicianus\">Cynomys ludovicianus ?</a> ?, page 36 in <a href=\"http://arctos.database.museum/publication/10007624\">Goodwin 1995</a>",1
+b7a79601-c07b-46d5-bd09-d4472b0d9431,typestatus,"basis of illustration of <a href=\"http://arctos.database.museum/name/tapirus merriami\">tapirus merriami</a>, page 300 in <a href=\"http://arctos.database.museum/publication/10007609\">morgan and harris 2014</a>",1
+1ba0bbad-28a7-4c50-8992-a028f79d1dc5,dwc:country,BOLIVIA,3
+41b119de-f745-482d-be42-a0155bc76e5d,taxonrank,subfamily,6
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,podial+metapodial elements,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of alpaida weyrauchi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Electrocoris pubescens,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of leptothorax ocellatus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Pheidole lamellinoda,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,type of trapezonotus exterminatus,7
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of procydnus eatoni,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Xiphigorgia citrina,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Leiostegium quadratum,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of cyprina (venilicardia?) abeihensis,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Type of Rhamphomyia leucoptera,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of muricopsis cevikeri,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:preparations,skin (dry); tissue (frozen: vapor phase nitrogen); tissue (frozen: vapor phase nitrogen); tissue (frozen: vapor phase nitrogen); tissue (frozen: vapor phase nitrogen); tissue (frozen: vapor phase nitrogen); tissue (frozen) sample,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of attus infuscatus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of epicrates striatus fowleri,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Neoditrema ransonneti,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of bathygobius fuscus swainsensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Allotype of Hentzia audax,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Hyperolius marmoratus argentovittis,4
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of arctoceras tuberculatum,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of acrosticta dichroa,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Allotype of Hypothyris ninonia caquetacola,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of tabanus umbraticolus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Aenictus doryloides,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Plastohypotype (Paleontology) of Paradoxides regina,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Pheidole oceanica,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Troglodytes irrequies,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of sidusa turquinensis,3
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,DIST R+L RADII,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,SCAPULAE FRAGS,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,long bone fragments,2
+81316846-80cb-4913-8941-b31537761eb0,dwc:preparations,calcified cartilage,7
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,ANTERIOR PART OF JUVENILE SKELETON WITH COILED BRACHYDECTES (CM 34684) AS GASTRIC BOLUS; IN COUNTERPART,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,R P4/-M3/ | Cast,11
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"TEETH,ASTRAGALUS,CALCANEUM",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,FRAGS OF VERTEBRATES,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,DISARTICULATED BONES ON SEVERAL PIECES OF ROCK THAT MAY BE ASSOCIATED,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"TOOTH, SCUTE, FRAGMENT",1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of pheidologeton nanus,2
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,3 MOLARS,6
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,L hypoplastron fragment,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,R NASAL,12
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"4 VERTEBRAE, PARTS OF RIBS",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"L DENTARY, M/2, I/1 VISIBLE ON INFERIOR MARGIN",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,r dentary fragment w molar fragment,1
+81316846-80cb-4913-8941-b31537761eb0,dwc:preparations,lower incisor,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"TEETH,SKULL FRAG",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,R M2(1),1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,premaxilary tooth,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,vertebrae and limb bones,4
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"L INNOMINATE; TIBIA; PARTIAL R JAW, M/1; R M3/",1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Mangora ayo,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of hubendickia spiralis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,type of eupodes brevipes,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paralectotype of cylindrella elatior,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of chaunax suttkusi,8
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Descanso peregrinus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Cylindrella illamelata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Cerion chaplini,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Pupina (Pupina) huntingtoni,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Hemiglypta iloilana,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of diplocephalus wamotsus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Type of Alcadia elatior,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Paludina nuclea,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of tigobius paralus,5
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Conularia quadrata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of mixophyes schevilli,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of scaphiocrinus aequalis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Scymnus ornatus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Epicrates striatus fosteri,7
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,neotype of rugodavidsonia woodwardiana| voucher of rugodavidsonia woodwardiana,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Genetic Voucher of Metalibitia paraguayensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Phrynobatrachus boulengeri,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of anolis proboscis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Notoglanidium pallidum| Voucher of Notoglanidium pallidum| Voucher of Notoglanidium pallidum,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of dorocidaris calacantha,4
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:country,Equatorial Guinea,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,Premaxilla with incisor,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"Carpometacarpus, left",14
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"R dentary, p34",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,proatlas,2
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,SPECIMENT COMPLETE MINUS PAIRED FINS,1
+7b0809fb-fd62-4733-8f40-74ceb04cbcac,dwc:countryCode,RU,18
+7b0809fb-fd62-4733-8f40-74ceb04cbcac,dwc:preparations,Microfossil slide - 5,118
+7b0809fb-fd62-4733-8f40-74ceb04cbcac,dwc:countryCode,FJ,10
+81316846-80cb-4913-8941-b31537761eb0,dwc:preparations,cuniformnavicular,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Type of Amara longula,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of pheidole glomericeps,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Additional Material of Costarina kilambe,5
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Scaphiostreptus pictus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of robergia marginalis| paratype of eorobergia marginalis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Ramphocelus venezuelensis,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:preparations,tissue (frozen); tissue (RNAlater); tissue (RNAlater) sample; tissue (frozen) sample,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of anochetus inca,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of lithodes panamensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Chaetodiadema africanum,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of reophax constrictus,1
+5082e6c8-8f5b-4bf6-a930-e3e6de7bf6fb,dwc:typeStatus,"syntype of Corixa rhenana Statz, 1950",5
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,5 M/3 OR P/#,1
+d621e959-2633-4ec1-a2a2-5d97cd818b47,taxonrank,subclass,21
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"LARGE SKULL & VERTEBRA, IN COUNTERPART",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,L DENTARY FRAG W M1-M2,11
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,l m1 in dentary fragment,9
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"ASTRAGALUS, CALCANEUM",3
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"HUMERUS,TARSOMETATARSUS",3
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,TEETH & ASSOC POSTCRANIA,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"SKELETON PARTIAL, A+B",3
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,LATERAL METAPODIAL FRAGS,3
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"L + R M3/, + LIMB FRAGS.",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"LM/2 worn, frag.",2
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"L JAW RAMUS FRAG, DISTAL END HUMERUS",1
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,"dentary w/ i1, m2",2
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,"cast of dentary w/ c1, p1-p2",1
+db3181c9-48dd-489f-96ab-a5888f5a938c,dwc:preparations,100% prepped - 59,8
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of urocoptis lactaria,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of tegenaria californica,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of parathelphusa aruana,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:preparations,tissue (alcohol); whole animal (70% ethanol),2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of pleurodictyum maximum| voucher of michelinia favositoidea,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of prostemmiulus tenebrosus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Pellenes carolinensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Glycera robusta,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"L JAW RAMUS, ALL T/#, MUCH WORN",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,L DENTARY: P/3-P/4-M/1-M/2-M/3,3
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,NAVICULOCUBOID,6
+81316846-80cb-4913-8941-b31537761eb0,dwc:preparations,distal end of left metatarsal II,1
+db3181c9-48dd-489f-96ab-a5888f5a938c,dwc:preparations,0% prepped - 43,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of orconectes pardalotus| voucher of orconectes,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of palmerella lisbonensis| voucher of palmerella lisbonensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of lasius claviger,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Cryptochromus letatus,2
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"COMPLETE SPECIMEN, VENTRAL SURFACE OF SKULL--GOOD",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,DC,2
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,R dentary frag w m2,3
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"JUGAL, OSTEOSCUTES, ASSOCIATED IN NODULE",1
+40250f4d-7aa6-4fcc-ac38-2868fa4846bd,dwc:country,Marshall Islands,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"JAW WITH L M/1-M/2-M/3, 4 METAPODIAL FRAGS, ULNA FRAG, CALCANEUS FRAGS",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"PARTIAL SKULL, R P3/-M1/",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"DENTARY, PREMAX",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,R DENTARY W M2-3+P3+M1,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,r dentary frag w m1-m2,2
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,ASTRAGALUS THIN SECTION,2
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,L coronoid,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,tooth and scale,1
+f9a33279-d6ba-41c7-a511-ef6adfcb6e20,dwc:preparations,cast - 13; fossil - 3,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of stictocephala corticalis,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Gonimaretia tylota,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of pulvinulina tumida,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Lyonsiella fragilis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of lyonsiella fragilis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of pupina (kanapa) manni,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Lectotype of Strophiops mixta,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Lima albicoma,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Succinea venusta,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of messor chamberlini,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,allotype of theridion volcanensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of iphigenia congo,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of amastra rustica,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paralectotype of Cyclostoma papyraceum abbreviatum,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Cerapachys besucheti,5
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Type of Psilopus melampus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,allotype of stasina lucasi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Formica microgyna californica var. hybrida,6
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Chiropterotriton magnipes,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of pheidole nesiota,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Leioceras costosum| Voucher of Leioceras costosum,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of hypopachus pearsei,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of lygodactylus scheffleri laterimaculatus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:preparations,whole animal (frozen); whole animal: tissue (flash-frozen),1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Type of Rhamphomyia exigua,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Curicaberis chamela,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,type of epanuraea ingenita,3
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,TRUNK FRAGS | Cast,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,left P11 +pygal,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"R MAX, P3/-P4/; L P2/; ASSOCIATED",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"R M2/, L M1/",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,R FRONTAL+POSTORBITAL,7
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,shell fragments and sediment,3
+6c6f34ed-58a4-4ba2-b9c7-34524f79a349,dwc:typeStatus,type; holotype; holotype,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Stephanometra indica,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Gryphaeostrea vomer,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of hyperolius usaramoae,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,R M/3; 3 L M/3,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"PARTIAL SKULL, PARTS OF FEET",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"Ant. Median Dorsal Plate, Dorsal surface",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,?l P3,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"METAPODIAL 3,LAT METAPODIAL",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,SMALL DERMAL PLATE,1
+81316846-80cb-4913-8941-b31537761eb0,dwc:preparations,costal plate fragments,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"large bones, vertebrae",1
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,centra (unassociated),2
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,L M1/ OR M2/ | Cast,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"M#/, WELL-PRESERVED, EXTERNAL LEDGES WITH MINUTE TUBERCLES & WELL-FORMED INTERMEDIATE CUSPS",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,R CHEEK TOOTH,2
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,METAPODIALS,2
+81316846-80cb-4913-8941-b31537761eb0,dwc:preparations,squamosal & auditory bulla,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"3 L JAWS, M/1; 3 R JAWS, M/1; 3 R JAWS MINUS M/1; 26 L M/1; 12 R M/1; 15 L M1/; 18 R M1/; 6 L M2/; 7 R M2/; 7 L M3/; 9 R M3/; 57 UNASSIGNED MOLARS, ALL M/1 REMOVED; MNI=29",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,assorted jaw elemtns,1
+1ba0bbad-28a7-4c50-8992-a028f79d1dc5,dwc:preparations,PREP - 265,8
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Dorothia pontoni,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Calobata platycnema,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Euthalia aeropus angustifascia,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Tabanus atlanticus,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Suya crinigera bangsi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Argyrodes mexicanus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Neoponera carbonaria,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Manopora tortuosa,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of ptychopoda nibseata,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of glyphisodon rubicundus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Colochirus gazellae,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,figured of cyaniris pseudargiolus lucia,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of myxicola monacis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Phyllophorus seguroensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Stomias brevibarbatus,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:preparations,whole animal (95% ethanol); DNA (frozen); whole animal (70% ethanol); DNA (frozen) sample,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,P5?,1
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,carpal/tarsals and misc. fragments,1
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,trunk centra,2
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"L DENTARY: P/4, M/2-M/3",2
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,DENTARY+MAXILLARY FRAG,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"MS L JAW, P/3",1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Pheidole gilva,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Allotype of Modisimus concolor,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Aspenites acutus,4
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of hallomenus serricornis| lectotype of hallomenus serricornis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Lovenechinus nobilis,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of glyptocrinus subnodosus| voucher of stellidocrinus argutus| voucher of pycnocrinus argutus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of gobius calderae,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of peltastes wrighti,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of astarte appressa,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Pachydactylus scutatus angolensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,type of selenophorus aereus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Ophiothrix dumosa,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Lectotype of Pupa jamaicensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Microlesta major,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,proximal C8,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Chamaeleo angusticoronatus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Conus miamiensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Symphurus billykrietei,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Squalus cubensis,4
+1ba0bbad-28a7-4c50-8992-a028f79d1dc5,dwc:preparations,PREP - 1184,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of limnodynastes spenceri,17
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of falagria scutellaris,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of eleutherodactylus sanctae-martae,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Mangora campeche,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Idiotyphlops emunctus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Type of Hydrovatus granum,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Leptotyphlops tenella,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of rhamphiophis oxyrhynchus,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Pseudocamponotus elkoanus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Rhinocricus juxtus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of entomis nodosa,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of formica exsectoides,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,cotype of hodotermes coloradensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:preparations,cDNA library (frozen: -80°C); whole animal: tissue (RNAlater); cDNA library (frozen: -80°C),1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"BROKEN VERTEBRAL COLUMN WITH RIBS, COCYTINUS-SIZED",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,dors centrum,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,ETHMOID,1
+1c8d18f4-5af2-4d86-98d2-8a5ed06456e2,dwc:preparations,matrix sands,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of acaronia nassa,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of tropidodipsas carri,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Cheiraster Vincenti,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Laetmophasma fecundum,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Figured of Carcharodon carcharias,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Psammophis schokari schokari,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Figured of Euproops danae,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,genetic voucher of onchnesoma steenstrupii steenstrupii,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Ophiocreas sibogae,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Conocladus microconus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Lispa albitarsis,5
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of ophiomusium nitidum,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,Dentary fragment w/ mandibulary symphysis,1
+6c6f34ed-58a4-4ba2-b9c7-34524f79a349,dwc:typeStatus,type; holotype; type,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,Dry opercula,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Bathyclupea schroederi,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of triakis barbouri,12
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Cerion martinianum,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of cerion martinianum,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of pellenes contingens,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Anculotus angulatus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Physa barberi,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Succinea humerosa,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"PARIETAL,DENTARY FRAGS",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,129 POSTCRANIAL ELEMENTS,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,MAXILLA W M1-M2 FRAG,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,PROX R ULNA,8
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"NAVICULAR,CUBOID,MESOCUNEIFORM,ECTOCUNEIFORM,ENTOCUNEIFORM,PROX METATARSAL",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"TIBIA,ASTRAGALUS,PHALANGES",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"JAW, R M/1-M/3; ISOLATED P/4 OF ANOTHER INDIVIDUAL",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,R DENTARY W DP3-M2,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,/L P ?,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,distal radioulna,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"maxilla w r P3-M2, l P2-M3+humerus+radius",1
+81316846-80cb-4913-8941-b31537761eb0,dwc:preparations,partial lateral scute,2
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,Premaxilla with I2-3,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:preparations,tissue (frozen); skull-less whole animal (formalin/70% ethanol); tissue (95% ethanol),1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,anterior dentary w four incisors,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,L maxilla w. P2/-M2/,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"SKELETON COMPLETE; LARGEST KNOWN, A+B",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,L dentary W m1-m2,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,navicular + Mt III,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,dist ?astrag frag,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"SKULL W P4-M3+BULLAE,HUMERUS,RADIUS,ULNA,SCAPULA",1
+81316846-80cb-4913-8941-b31537761eb0,dwc:preparations,associated dentaries,2
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,POSTCRANIAL SKELETON | Cast,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,DENTARY SYMPHYSIS W R P2-P4,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Leptodactylus amazonicus,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of molothrus bonariensis riparius,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Atya rivalis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Corymbopora neocomiensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Spongia cerebriformis var. obscura,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Stromatoporoid indetermined,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Ammophila antiquella,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Aphaenogaster subterranea var. croceoides,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of pipra erythrocephala erythrocephala,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of asteroporpa pulchra,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Homopholis wahlbergii arnoldi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,lectotype of chilosia leucoparea,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of amphiura dilatata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Ceramaster granularis,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,type of megarthrus angulicolle,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Ophidiaster Floridæ,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of stichopus japonicus| additional material of apostichopus japonicus,1
+b1f0612a-bc21-424f-b9c1-3bba69ad4f54,dwc:preparations,Permineralization - 118,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Dipoena atlantica,4
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:preparations,incomplete skeleton (dry); incomplete skeleton (dry) sample,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,lectotype of macrurus fragilis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of salmo salar,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of laemonema barbatula,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of tretanorhinus variabilis binghami,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype? of Tetragnatha conformans,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,type of aglaophenia robusta,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of dionda serena,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Polymita brocheri cuestana,4
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of pellenes nemoralis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Lymnaea idahoensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of stoasoma leanum,1
+7ae4d15d-62e2-459b-842a-446f921b9d3f,dwc:preparations,part; part,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:preparations,tissue (flash-frozen),17
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Cotype of Leptachatina laevis,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"ASTRAGALUS,METAPODIAL,RIBS",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"TARSOMETATARSUS,CORACOID,CARPOMETACARPUS,CARRINUS",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,JAWS; A2+B,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of myzostoma brevipes,1
+7b0809fb-fd62-4733-8f40-74ceb04cbcac,dwc:islandGroup,ABC Islands,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,FOUR CAUDALS,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Tetramorium rugiventris,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of echinus gracilis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of tricorythodes albilineatus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Chasmocarcinus Rathbuni,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Ophiocamax polyploca,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Xestomyza planiceps,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of lygia hawaiensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of pseudotremia soco,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:island,Kolombangara Island,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Anolis oculatus oculatus,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of diploglossus fowleri,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Tyrannula rufipectus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Boloria freija nabokovi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of nesobolus toroanus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Apenes limbata,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"ANTLER FRAGS, 21 PIECES",1
+db3181c9-48dd-489f-96ab-a5888f5a938c,dwc:preparations,100% prepped - 724,1
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,canine frag.,2
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,chevron & vertebrae fragments,1
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,associated L and R maxillae,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Pericrocotus cinereus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Eleutherodactylus audanti audanti,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of liguus fasciatus caribaeus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Type of Hister aequus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of pheidole hamtoni,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Plebeius ferniensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of anolis baleatus litorisilva,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Pheidole bison,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,lectotype of agathidium globatile,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,5 DORSAL VERTEBRAE,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,MODEL MADE BY H J CLEMENT,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,needles,8
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,PINNULE,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Myrmarachne albosetosa,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Eucnemis antiquatus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of brachyscelio cephalotes,1
+db3181c9-48dd-489f-96ab-a5888f5a938c,dwc:country,Republic of Cape Verde,2
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,16 PARTIAL RIBS,1
+6c6f34ed-58a4-4ba2-b9c7-34524f79a349,dwc:preparations,Bottle; Boxes and vials; Microslide; Thin sections no remnants,5
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Peucetia lesserti,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Laevicordia horrida,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paralectotype of cyclostoma tectilabre,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Oecobius idolator,1
+5082e6c8-8f5b-4bf6-a930-e3e6de7bf6fb,dwc:typeStatus,figured of Scutelleridae,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Gymnothorax berndti,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Apterostigma turgidum,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of crossopoma enganoense,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of vestitecola haitensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of helicina consanguinea soror,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Craterodesmus ovatus,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of heliophanus peckhami,1
+6c6f34ed-58a4-4ba2-b9c7-34524f79a349,dwc:preparations,Boxes and vials; Thin sections with remnants; Unsectioned,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"MANDIBLES,TEETH,LIMB FRAGS",1
+1ba0bbad-28a7-4c50-8992-a028f79d1dc5,dwc:preparations,PREP - 3406,1
+7b0809fb-fd62-4733-8f40-74ceb04cbcac,dwc:preparations,Digital image - 1; Dry - 15,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of prorhynchus haswelli,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of graphoceras micra| holotype of ludwigella micra,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of chitrella cala| voucher of chitrella cala,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of sphaerexochus parvus,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,type of gymnopternus albiceps,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of tretocidaris bartletti,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of antedon ruber,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of desmognathus wrighti,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Lectotype of Planorbis redfieldi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Lectotype of Pachybrachys lodingi| Syntype of Pachybrachys lodingi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Cotype of Planorbis dilatatus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Diaporus barroensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of deltocyathus italicus var. delta,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Lectotype of Natica caurina,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Rhabdolichops eastwardi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Carpodacus argyrophrys| Additional Material of Carpodacus pulcherrimus argyrophrys,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Gobiesox papillifer| Voucher of Gobiesox papillifer,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,lectotype of helix osculans delaminata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of caristius groenlandicus,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"DENTARY,PROX FEMUR",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,PARTIAL SKULL W RP2-M3/,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,manus and pes bones,1
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,cranium fragments,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of gnaphosa parvula,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Protoopalina nutti,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Amnicola pasionensis| Voucher of Amnicola pasionensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of pardosa tuoba,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Type of Eirene danduensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of urocoptis livida,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Amnicola forsythi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of ancylus aduncus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Leiobunum laterale,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of mangilia cymella,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Mocella kuntzi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paralectotype of Vertigo nitens,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Anoplodactylus quadratispinosus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of caudina arenata var. armata,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of helix retrorsa| paratype of ariophanta retrorsa,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of trigoniulus barbouri,1
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,"Mx (protocones), (unassociated)",1
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,mandible w/ deciduous premolars,2
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,digit III phalanx 2,1
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,"phalanx 1, digit II of L pes",1
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,"partial vertebra?, caudal vertebra",1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of dubiaranea discolor,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Achelous affinis| Voucher of Portunus (Achelous) affinis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,allotype of eucyrtopogon nebulipennis,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,PROX PHALANX 3,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,M3 left,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"HUMERI,UROSTYLE",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"MAXILLA FRAG,TOOTH",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"P4/ (2 R, 1 L)",1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of clausilia aciculata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Neostasina mammee,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Pronous valle,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of cambalomma laevis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Type of Limnopsyche dispersa,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of cataneura rileyi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Macroteleia discors,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of stenoonops noctucus,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of calisto eleleus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:island,Grimsey,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of epipocus laetus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of pheidole sphaerica,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of medetera pollinosa,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Lectotype of Tabanus exul,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of lycodonomorphus ruflus mlanjensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of chaetura brunnitorques,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,movable claw,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"L. tibia, dist. frag",2
+db3181c9-48dd-489f-96ab-a5888f5a938c,dwc:preparations,50 % prepped - 78,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Discothyrea icta,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Technomyrmex albipes var. vitiensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Actinopeltis insocialis,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Galerites pygaea| Voucher of Pyrina pygaea,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paralectotype of Ortholasma rugosum,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of clubiona latifrons,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of kellia undulata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Urocoptis intusfalcata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Helix orbitulus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Melania vittata,1
+2ec3b31e-c86b-4ce9-b265-77c8c3f9643c,dwc:nomenclaturalCode,predentary,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Diplommatina turris,1
+b1f0612a-bc21-424f-b9c1-3bba69ad4f54,dwc:preparations,Peels - 7,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Symphoromyia inurbana,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,type of philonthus viridanus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Setophaga rubra,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,MID R DENTARY W C+P2-M2,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"three mandibular frags, no teeth",1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,type of cryptobium californicum,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"M,DENTARY FRAG,VERTEBRAE FRAGS,LIMB BONES",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,1 UPPER MOLAR & 1 LOWER MOLAR,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Synodus simulans,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of cladopora ordinata| paratype of cladopora proboscidalis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of theridium montanum,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,DENTARY FRAG W P1-P4,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,type of aegialia rupta,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,additional material of brycon orbignyanus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Sympterygia acuta| Figured of Sympterygia acuta,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of ophiothauma heptactis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Genetic Voucher of Chondrosia reniformis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,genetic voucher of notacanthus chemnitzii| voucher of notacanthus chemnitzii,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Astronesthes,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of atresius liratus| holotype of atresius liratus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Aulocystis frutectosa| Syntype of Drymopora frutectosa,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of pachylomerus tuobitus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Geomelania typica,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Brevipalpus oaxacensis,1
+ba77d411-4179-4dbd-b6c1-39b8a71ae795,dwc:typeStatus,"Hypotype.Armentrout, 1973 UW Dissertation, p. 472.",1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Microgobius eulepis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Allotype of Pelegrina neoleonis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Nuculana louiseae,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Biaporus montanus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of protolophus tuberculatus,1
+ba77d411-4179-4dbd-b6c1-39b8a71ae795,typestatus,"material examined, but not figured or measured. published 2013.kiel, s. & k. amano, 2013. \"the earliest bathymodiolin mussels: an evaluation of eocene and oligocene taxa from deep-sea methane seep deposits in western washington state, usa\" j. paleont. 87(4): 589-602.",1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,lectotype of planorbis affinis| lectotype of planorbis affinis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Helicostyla fulgetrum gigantea,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Pardosa annulata,1
+b7a79601-c07b-46d5-bd09-d4472b0d9431,dwc:nomenclaturalCode,skull; frontal; dentary; parietal,1
+d11f19ae-e946-4a0e-83e5-2052ae8cca62,dwc:preparations,"fossil specimen, 180",1
+40250f4d-7aa6-4fcc-ac38-2868fa4846bd,dwc:disposition,"ARIZ, ASC, DES, UTEP",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,MAXILLA+PREMAXILLA,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"VERTEBRA,DIST METAPODIAL 2-3",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"ASTRAGALI,CUBOID,NAVICULAR,VERTEBRA,P/",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,2 SACRAL VERTEBRAE,4
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,UPPER TOOTH FRAGS,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,m4 right,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,vert. Zygapophysis,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,7 L M/1,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"R P2-M3 FRAG/,R P2-M2 FRAG",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,LP3,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of notoscopelus elongatus kroyeri| additional material of notoscopelus elongatus kroyeri,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of embiotoca jacksoni,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Genetic Voucher of Brotulotaenia crassa,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of melania coracina,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Leptothyra induta albida,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of argyria venusta,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Lycosa similis,1
+b7a79601-c07b-46d5-bd09-d4472b0d9431,dwc:typeStatus,"voucher of <a href=\"http://arctos.database.museum/name/Phrynosoma douglassi\">Phrynosoma douglassi</a>, page 34 in <a href=\"http://arctos.database.museum/publication/10007633\">Holman 1970</a>",3
+f9a33279-d6ba-41c7-a511-ef6adfcb6e20,dwc:preparations,fossil - 116,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Euophrys obscurus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,lectotype of pedipes ovalis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of urocoptis livida inconstans,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Ophichthus zonatus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Rhinocricus pertenuis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,lectotype of cylindrella maugeri solida,1
+7b0809fb-fd62-4733-8f40-74ceb04cbcac,dwc:preparations,Acetate peel - 1; Acetate peel - 8; Photograph - 1; Dry - 1; Dry - 1; Dry - 1,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Orestias elegans,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of pheidole caribbaea sloanei,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Rhinocricus pycnus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of procambarus okaloosae,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of zeacrinus asper| holotype of zeacrinus asper,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Pheidole longiscapa r. martensis var. scabrocciput,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of graphoceras attenuata| holotype of ludwigella attenuata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Linus crassipalpis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Eleutherodactylus muricatus,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"cranial elements ?, in concretion",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,Lunar left,1
+81316846-80cb-4913-8941-b31537761eb0,dwc:preparations,paramedian osteoderms; NCSM 16445.2 (left? Paramedian); NCSM 16445.3 (left paramendian osteoderm),1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"L M1/,M2/",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,ANTERIOR SKULL; LIMB & FOOT FRAGS OF AT LEAST 2 INDIVIDUALS,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"R & L SCAPULA, ASSOCIATION CONJECTURAL: OAP",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,SKULL FRONT WITH T#/,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,peripheral+costal frag,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"maxilla w lC-M3, rP3-M3+l dentary w p3, m1-m3",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"INTERCLAVICLE, SCAPULOCORACOID, SCALES ETC., ASSOCIATED",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,L M1/ OR M2/ (15),1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"L+R UPR MANDIBLE,L+R DENTARY",2
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,coprolite fragments,1
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,dentary fragment w/ i1-i3,1
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,dentary frag. w/ i1-m3,1
+84c24d87-e4ad-4165-8e86-5ae1a249c196,dwc:preparations,sesmoids,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"SKULL & PECTORAL GIRDLE, MACERATED, JUVENILE, A+B",1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of haliporus thetis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Clavulinoides szaboi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of lehua vincula| paratype of cheirurus vinculum,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of pomacentrus xanthurus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Clausilia aplostoma,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,type of siphonella cinerea,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,type of epuraea infuscata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Onocolus venustus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of pomacentrus agassizii,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Anolis mariarum,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Pipunculus aequus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Pyxichromis paradoxus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of dromicus polylepis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Allopora venusta,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,type of musca hydropica,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,type of platystethus archetypus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Procydnus reliquus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Type of Empis miocenica,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Themiste (Themiste) alutacea,2
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of botia purpurea,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of synapta albicans,1
+db3181c9-48dd-489f-96ab-a5888f5a938c,dwc:preparations,100% prepped - 305,3
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Additional Material of Calliostoma hassler| Paratype of Calliostoma (Astele) hassler,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Bathygadus favosus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of lampichthys rectangularis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Genetic Voucher of Squalus cubensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Lectotype of Strophiops tenucostata,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,FISH MINUS TAIL,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"T#/, UNASSOCIATED",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"DIST METAPODIAL 2-3,ASTRAGALUS",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"R M2/, _ M1/, IN MAX FRAG",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"4 SHED TEETH, 1 A+B",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,I,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,VENTRAL IMPRESSION OF ADULT PARTIAL SKELETON | Cast,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"PTERYGOID FRAG,TEETH",1
+81316846-80cb-4913-8941-b31537761eb0,dwc:preparations,lateral osteoderms,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"R JAW, M/1, PARTIAL M/2",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"ANT DENTARY,C,I",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,POSTERIOR TOOTH,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"LUNAR,I",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,left dentary w m1,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paralectotype of Baccha scutellatus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of lyssomanes reductus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of alabagrus mocovi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of myzostoma murrayi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of epicrates striatus warreni,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Allotype of Cyphomyia brevis,1
+81316846-80cb-4913-8941-b31537761eb0,dwc:preparations,partial digit (manus),1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,R DP3+M1+M3-M4/,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Rhyacosiredon rivularis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Pheugopedius maculipectus microstictus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of psalidia scurra,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Czekanowskites decipiens,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of pheidole trinitatis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of scaphella junonia butleri| paratype? of scaphella junonia butleri,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Hyphessobrycon rosaceus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Hygrosoma aethiopicum,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of stichopus godeffroyi var. pygmaeus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Dictyna coloradensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of siphogenerinoides parva,1
+40250f4d-7aa6-4fcc-ac38-2868fa4846bd,dwc:disposition,"DES, ARIZ, ASC, NA, NO",1
+e27f0218-47e0-41bc-9086-9d9169096e90,dwc:countryCode,CN,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of lobogenes schwetzi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of brevipalpus styxus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Cyclophorus reevei lubanicus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of microsa chickeringi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of amphitrite robusta,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Descanso insolitus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of natica jamaicensis,1
+2ec3b31e-c86b-4ce9-b265-77c8c3f9643c,dwc:island,Bermuda,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Physa goodrichi,1
+ba77d411-4179-4dbd-b6c1-39b8a71ae795,dwc:typeStatus,"Weavef, 1945.",1
+b7a79601-c07b-46d5-bd09-d4472b0d9431,dwc:nomenclaturalCode,synsacrum; ilium,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,NEARLY COMPLETE L HUMERUS; 2 DISTAL L HUMERI; 1 DISTAL R HUMERUS; 1 PROXIMAL L HUMERUS,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"MAXILLA,DENTARY FRAGS,TEETH",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"L PALATE FRAG, M1/ & M3/; L JAW FRAG, M/1-M/2; L FRONTAL; 13 ISOLATED MOLARS; 2 INCISOR FRAGS; 3 PHALANGES",1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Myopa longipilis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of thomasatia auricula,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of pheidole pilosior,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of peromyscus subgriseus rhoadsi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Valvatorbis mauritii,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of leimadophis andreae orientalis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Lepidophyma smithi tehuanae,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"JAW, L M/1-M/2, R M/3 | Cast",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"CARPAL,DIST TIBIA",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"lepospondyl vertebrae in association with vp 3173,3174,3176",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"L DENTARY, FRAG M/1, M/2",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"spine, sectioned in sagittal view",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,l max frag w M2-M3,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"SKULL,TIBIA,CALCANEUM,PHALANX",1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Amphisbaena fuliginosa bassleri,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of ambystoma epixanthum,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,lectotype of cybocephalus californicus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of cyathocrinus solidus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,type of phthiria humilis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,type of ditoma laticollis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of pheidole flavifrons,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Zamenis variabilis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Astraea varia| Figured of Astraea varia,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,lectotype of adeorbis abjecta| voucher of adeorbis abjecta,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Pyramidula alternata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Melania praemordica,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Saitis defloccatus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype? of Hyalogyrina grasslei,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Habea floridana,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Amblyseius (Typhlodromips) caobae,1
+ba77d411-4179-4dbd-b6c1-39b8a71ae795,dwc:typeStatus,Published 1976.,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,L JAW WITH M/1-M/2; L JAW WITH M/3; L JAW WITH M/2 -M/3; 2 L JAWS EDENTULOUS; 2 R JAWS EDENTULOUS; L M/1; R M/1; R MAX FRAG WITH M1/-M2/; R M1/,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,METACARPALS & PROXIMAL END 1ST PHALANX,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"R P/4-M/1, R M/1-M/3, R P/4-M/2, 2 L M/3, FRAGS",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"L M1/-M3/, R M1/-M2/",1
+40250f4d-7aa6-4fcc-ac38-2868fa4846bd,dwc:identificationQualifier,probably,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"A+B, FAIR HEAD WITH MOST OF BODY",1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:preparations,whole animal: tissue (RNAlater); whole animal: tissue (flash-frozen); mRNA (frozen); cDNA library (frozen: -80°C); cDNA library (frozen: -80°C),1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paralectotype of Silvanus imbellis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Achalarus pseudocellus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Dibamus bogadeki,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,type of schizoneuroides scudderi,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,r p4+m1,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,Upper right P4,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,lright M/3,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"Left ulna, proximal end",2
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,Podial sesamoids,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Arthropeas magna,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,TALONID R M/1,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,left lower jaw and caudal portion of right lower jaw,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,L P3-M2,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,L M/1 (BROKEN),1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,L M1/ OR M2/ (7),1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,RADIUS+1LNA,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"R P/3, R P/4",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,L ANT PLASTRON,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paralectotype of Pimelodus affinis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,cotype of turbo laetus,1
+ba77d411-4179-4dbd-b6c1-39b8a71ae795,typestatus,"figured specimen. published 2007.journal of paleontology, 81(2): 331-351. 2007 fig 6.5.",1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of nassa glauca,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Helix faunus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Platyrrhacus fallens,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Tenuipalpus meekeri,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Type of Elaphrus gratiosus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Bulinus guimarasensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Hemiaster nucleus| Voucher of Hemiaster nucleus| Figured of Hemiaster nucleus| Voucher of Hemiaster nucleus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Palaechinus koenigii| Figured of Palaechinus koenigii,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,lectotype of triphoris inconspicuus| voucher of triphoris inconspicuus bicolor,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Anculosa picta| Paratype? of Anculosa picta,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Allocosa virgo,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of trachelas morosus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of bollmanella laminata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Phoroncidia puyehue,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Vesicomya lepta,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Bulimulus,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"R MAX, FRAGS",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"PARTIAL JAWS, ISOLATED T/#",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"SKULL,DENTARIES,ATLAS",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,Canine root fragment,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,mandibular fragment w P/4-M/2,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,10 MOLARS & PREMOLARS,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:preparations,spread wing (dry); stomach content (95% ethanol); tissue (frozen); partial skin (dry); tissue (frozen: vapor phase nitrogen); tissue (frozen: vapor phase nitrogen); tissue (frozen: vapor phase nitrogen),1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:preparations,whole animal (formalin); partial animal: tissue (formalin),1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of astrophyton panamense,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of teliocrinus umbrosus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Sphenodiscus konincki,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of doryphorus castor,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Onchonotopsis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Hamillus sylvestris,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Bembidium versutum,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of hypoplectrus pinnavaria,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,ANT L OPERCULUM FRAG,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,right upper I,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,partial metapodials+tarsal,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"DENTARY W P4-M1,R+L HUMERUS,RADIUS,ULNA",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"NC, ANTERIOR _; GOOD SKULL ROOF, OPERCULUM",1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of chlorophoneus abbotti sandgroundi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratopotype of Nucras caesicaudata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of cyrtophora californiensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of urocoptis monelasmus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of achatinella undosa,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of macroceramus pilsbryi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Ficus oregonensis,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"R P/3-P/4-M/1-M/2, ASSOCIATED SYMPHYSIS",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"L JAW, 3 R JAWS",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,SKULL WITH R P3/-M1/ & L P2/-M1/,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,"CRANIUM,VERTEBRAE",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"R ASTRAGALUS, 2 PROXIMAL METAPODIALS & FRAGS",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,P1 PARTS; A+B,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Inocellia tumulata,1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,MC IV+tibia,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,DISTAL PHALANX,2
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"POSTCRANIALS, ASSOCIATED",1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"PARTIAL SKULL WITH R P2/-M1/, L P3/-M1/",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,DISTAL RADIUS,1
+71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb,dwc:preparations,"A+B, HEAD+",1
+5ab348ab-439a-4697-925c-d6abe0c09b92,dwc:preparations,proximal C4-C5,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:preparations,whole animal: tissue (flash-frozen); cDNA (frozen); mRNA (frozen); whole animal (95% ethanol),1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of purcellia leleupi,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of julomorpha ignava,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of scaphiocrinus rusticellus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:preparations,partial animal: tissue (RNAlater); partial animal: tissue (RNAlater); partial animal: tissue (RNAlater) sample,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of kartinikus colonus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Voucher of Liroceras indetermined,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Fundulus rhizophorae,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Dichentomum parvulum,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,voucher of gymnogeophagus gymnogenys,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Leperditella bulbosa| Holotype of Isochilina bulbosa,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Syntype of Asio portoricensis,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,syntype of goerinella bicolor| lectotype of goerinella bicolor,1
+5082e6c8-8f5b-4bf6-a930-e3e6de7bf6fb,typestatus,"holotype of panorpa maculatuosa statz, 1936",1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of pachybrachys cephalicus var. parvus| lectotype of pachybrachys cephalicus var. parvus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of caseola alticeps,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of platyrrhacus fallens,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,lectotype of lucidella aureola granulosa,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,paratype of cingula aculeus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Xesta oldhamiana,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,typestatus,holotype of tmeticus brunneus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paralectotype of Cylindrella zonata,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Paratype of Plekocheilus oligostylus,1
+271a9ce9-c6d3-4b63-a722-cb0adc48863f,dwc:typeStatus,Holotype of Cerion (Strophiops) lucayanorum,1
